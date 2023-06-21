@@ -7,6 +7,20 @@ entries:
         url: https://keybase.io/wekaio/pgp_keys.asc
     apiVersion: v2
     appVersion: 1.16.0
+    created: "2023-06-21T13:04:12.799069688Z"
+    description: A Helm chart for Kubernetes
+    digest: a17392ca9a67735b5dd52c3ce0e398743fce5b3357939570f3017f74e0ba8124
+    name: test
+    type: application
+    urls:
+    - https://github.com/dontbreakit/chart/releases/download/test-0.1.4/test-0.1.4.tgz
+    version: 0.1.4
+  - annotations:
+      artifacthub.io/signKey: |
+        fingerprint: D1A264B305B2CC014EED71F7B14F70462C2D887A
+        url: https://keybase.io/wekaio/pgp_keys.asc
+    apiVersion: v2
+    appVersion: 1.16.0
     created: "2023-06-21T10:11:07.853506904Z"
     description: A Helm chart for Kubernetes
     digest: 7efab88142d4bbbb43bf6676b06ecef45b7e0af5c35504acd3ea8b344ac62d21
@@ -25,4 +39,4 @@ entries:
     urls:
     - https://github.com/dontbreakit/chart/releases/download/test-0.1.2/test-0.1.2.tgz
     version: 0.1.2
-generated: "2023-06-21T10:11:07.853516304Z"
+generated: "2023-06-21T13:04:12.799083388Z"
